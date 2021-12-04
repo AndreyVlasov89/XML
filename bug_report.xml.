@@ -6,6 +6,6 @@
 <expected_result>the cart page will open</expected_result>
 <actual_result>the page cart don't open</actual_result>
 <reproducibility>always</reproducibility>
-<severity>critical</severity>
+<severity>criticall</severity>
 <priority>hight</priority>
 </bug_report>
